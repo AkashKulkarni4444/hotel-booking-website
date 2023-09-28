@@ -26,10 +26,6 @@ export default async function RootLayout({
   const currentUser = await getCurrentUser();
   return (
     <html lang="en">
-      <head>
-        <link rel="icon" href="%PUBLIC_URL%/logo.png" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-      </head>
       <body className={font.className}>
         {/* <ClientOnly> */}
         <ToasterProvider />
