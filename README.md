@@ -1,2 +1,2 @@
 ##﻿# simple-airbnb-clone
-# https://simple-accomodation-booking-clone.vercel.app
+# https://akash-book-my-hotel.vercel.app/
