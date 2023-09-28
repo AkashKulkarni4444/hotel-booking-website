@@ -1,2 +1,2 @@
-##﻿# simple-airbnb-clone
+## Hotel Booking Website
 # https://akash-book-my-hotel.vercel.app/
